@@ -3,12 +3,12 @@
   Whenever a bullet hits the opponent, the opponent's health is reduced by one. Game ends when the player's health reaches to 0 and game restarts after few second.
 
 # Game Controls
-  ## Left Player 
-  ###Move Up: W
-  ##Move Down: S
-  ###Fire: Left Alt
+  ##Left Player 
+  (*Move Up: W)
+  (*Move Down: S)
+  (*Fire: Left Alt)
   
   ## Right Player
-  ###Move Up: Up Arrow
-  ###Move Down: Down Arrow
-  ###Fire: Right Alt
+  (*Move Up: Up Arrow)
+  (*Move Down: Down Arrow)
+  (*Fire: Right Alt)
