@@ -4,11 +4,11 @@
 
 # Game Controls
   ## Left Player 
-  Move Up: W
-  Move Down: S
-  Fire: Left Alt
+  ###Move Up: W
+  ##Move Down: S
+  ###Fire: Left Alt
   
   ## Right Player
-  Move Up: Up Arrow
-  Move Down: Down Arrow
-  Fire: Right Alt
+  ###Move Up: Up Arrow
+  ###Move Down: Down Arrow
+  ###Fire: Right Alt
